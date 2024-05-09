@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 59a52d12e1378ca42be0ada59f200581
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - creditsPage: {instanceID: 0}
+  - tutorialPage: {instanceID: 0}
+  - page1: {instanceID: 0}
+  - page2: {instanceID: 0}
+  - page3: {instanceID: 0}
+  - page4: {instanceID: 0}
+  - page5: {instanceID: 0}
+  - myAudioSource: {instanceID: 0}
+  - myAudioClip: {fileID: 8300000, guid: bfbf2eff4e1f3ce4da2927ea561b7906, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
